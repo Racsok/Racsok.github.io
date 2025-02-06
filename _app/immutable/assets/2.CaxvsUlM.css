@@ -1,0 +1,1 @@
+label.svelte-uektqt{border-bottom:1px solid #3e3e3e}label.svelte-uektqt:before{content:"Leer más"}#btn-leer.svelte-uektqt:checked~label:where(.svelte-uektqt):before{content:"Ocultar"}.ocultar.svelte-uektqt:has(~#btn-leer:where(.svelte-uektqt):checked){display:block}
