@@ -1,3 +1,7 @@
+<script>
+    import { assets, base, resolveRoute } from '$app/paths';
+</script>
+
 <header class="bg-gray-800 text-white py-6">
     <div class="container mx-auto text-center">
         <h1 class="text-3xl font-bold">Oscar Gacha</h1>
